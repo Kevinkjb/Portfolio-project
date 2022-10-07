@@ -342,37 +342,37 @@ text-align: center;
 }
 .html {
     width: 80%;
-    animation: move 10s normal infinite;
+    animation: move 10s normal ;
      background-color: var(--primary-color);
      border-radius: 25px;
 }
 .css {
     width: 80%;
-    animation: css 10s normal infinite ;
+    animation: css 10s normal ;
     background-color: var(--primary-color);
     border-radius: 25px;
 }
 .js {
     width: 65%;
-    animation: js 10s normal infinite ;
+    animation: js 10s normal  ;
     background-color: var(--primary-color);
     border-radius: 25px;
 }
 .jquery {
     width: 60%;
-    animation: jquery 10s normal infinite ;
+    animation: jquery 10s normal  ;
      background-color:var(--primary-color);
      border-radius: 25px;
 }
 .saas {
     width: 40%;
-    animation: saas 10s normal infinite ;
+    animation: saas 10s normal  ;
      background-color: var(--primary-color);
      border-radius: 25px;
 }
 .react {
     width: 50%;
-    animation: react 10s normal infinite ;
+    animation: react 10s normal  ;
      background-color: var(--primary-color);
      border-radius: 25px;
 }
